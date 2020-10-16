@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "94984eae625dec8220d48beb1ff4b40d",
+    "content-hash": "426a3b49336412a0b64c3a91a7c98cb5",
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
